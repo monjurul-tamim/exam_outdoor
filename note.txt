@@ -1,0 +1,51 @@
+color
+-----
+
+ button color--- #fb2056
+
+h1---- color: #222222;
+
+footer background--- #191919
+footer text---- #e2e4e9
+
+text
+----
+
+logo--- OUTDOOR  ADVENTURE
+
+menu-- Home About Services Projects Blog Contact Take Action
+
+banner--  Explore the colourful world    A WONDERFUL GIFT    LEARN MORE
+
+qoutation-- "Fuerat aestu carentem habentia spectent tonitrua mutastis locavit liberioris."
+                               ADAM SENDLER
+
+events--     UPCOMING EVENTS
+
+          EVEREST CAMP TREK
+Fuerat aestu carentem habentia spectent tonitrua mutastis
+locavit liberioris inistra possedit.
+LEARN MORE →
+
+WALKING HOLIDAYS
+Fuerat aestu carentem habentia spectent tonitrua mutastis
+locavit liberioris inistra possedit.
+LEARN MORE →
+
+description--- EXPLORE THE WORLD
+               Diremit mundi mare undae nunc mixtam tanto sibi. Nubes unda concordi. Fert his. Recessit mentes praecipites locum caligine sui egens erat. Silvas caeli regna.
+             LEARN MORE →
+
+upcomming---  UPCOMING TOURS & DESTINATION
+
+Fuerat aestu carentem habentia
+spectent tonitrua mutastis locavit
+liberioris. Sinistra possedit litora ut
+nabataeaque. Setucant coepyterunt
+perveniunt animal! Concordi aurea
+nabataeaque seductaque constaque
+cepit sublime flexi nullus.
+
+
+footer-----   123 Fifth Avenue, NY 10160, New York, USA | Phone: 800-123-456 | Email: contact@example.com
+                                        Copyright © 2019 Outdoor Adventure
